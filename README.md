@@ -1,21 +1,5 @@
 # ElixirExample
 
-**TODO: Add description**
+Elixir で色々やってみるリポジトリ
 
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `elixir_example` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:elixir_example, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/elixir_example](https://hexdocs.pm/elixir_example).
-
+調査ログ等はこちら: https://zenn.dev/m_takehara/scraps/66d2b554d25f76
